@@ -281,7 +281,7 @@ Hey you! Let's chat.
 
 "I'm not sure about typing speed but I do know that Bix is an AI that uses natural language processing to learn and produce meaning."
 
--> Do you know in which language were ou written?
+-> Do you know in which language were you written?
 
 "I'm not sure. I would assume English since that's the language used."
 
@@ -311,5 +311,5 @@ Hey you! Let's chat.
 
 -> Tell me a joke.
 
-"How many politicians does it take to change a lightbulb? Two. One ot change it, and another one to change it back again."
+"How many politicians does it take to change a lightbulb? Two. One to change it, and another one to change it back again."
 
