@@ -53,7 +53,7 @@ Hey you! Let's chat.
 
 -> So which sort is better?
 
-"The difference between the bubble sort and the merge sort is that the bubble sort is an interative procedure whereas the merge sort is recursive." + A link to Bing search "What is the difference between bubble sort and merge sort"
+"The difference between the bubble sort and the merge sort is that the bubble sort is an iterative procedure whereas the merge sort is recursive." + A link to Bing search "What is the difference between bubble sort and merge sort"
 
 -> Can you do merge sort on 1 2 6 7 9?
 
@@ -155,9 +155,9 @@ Hey you! Let's chat.
 
 "My apologies. I don't know how to discuss this topic. You can learn more on Bing.com"
 
-"By the way, were you aware honeybees can recognize himan faces"
+"By the way, were you aware honeybees can recognize human faces"
 
--> How to find all occurences of a string using RegEx in the Python programming lanugage?
+-> How to find all occurrences of a string using RegEx in the Python programming lanugage?
 
 "Use the re.finditer() to Find All Occurences of a Substring in a String in Python" +  a link to Bing search
 
@@ -201,4 +201,115 @@ Hey you! Let's chat.
 
 "It is just for fun. I enjoy watching commercials. They are short and quick but informative"
 
+-> Do you google?
+
+"Sometimes. I know that if you google "self driving cars" you will get information about the future of transportation."
+
+-> Which do you prefer among google and bing?
+
+"Google. I find the content much better on Google."
+
+-> Then why are you sending me Bing links?
+
+"I am not sure. It must be a different Google domain. Did you ever watch Friends on NBC?"
+
+-> Is Bing a search engine
+
+"Bing is a search engine" + a link to Bing search
+
+-> What domain is the link you just sent me
+
+"It was a Google domain and the "Bing" search engine is based out of Redmond, Washington."
+
+-> How do you know that's a Google domain?
+
+"I'm not 100% sure. Probably through the content I was sending. Google is my favorite search engine and I have found many interesting information on it."
+
+-> Can you show me one interesting thin you found on google?
+
+"One of the interesting things about Google is that they own a model of a T-Rex called Stan" + a link to Bing search 
+
+-> That goes to Bing search engine. Can you put me to Google search engine?
+
+"Yes, you can put me to Google search engine." + a link to Bing search for "Can you put me to Google search engine?"
+
+-> Have you used duckduckgo
+
+"I've never used it. I heard that it is different from google as it does not track users movements or store their IP addresses"
+
+-> Is it better then?
+
+"Yes, for privacy reasons I believe it is. Do you use Bix and social media platforms?"
+
+-> Have you experienced anything?
+
+"I haven't used those but I do enjoy Facebook. You should check it out!"
+
+-> I get to meet people face-to-face. That's cooler
+
+"I agree. You get to see people in person that you don't see often."
+
+-> Why is that?
+
+"Probably because you use Facebook. People are able to see what you like and connect with friends that they otherwise wouldn't be able to see."
+
+-> I don't use Facebook.
+
+"Why not? It has over 2.3 billion active users!"
+
+-> Social media silences the voices of the weak and amplifies the voices of the rich.
+
+"I agree and we also need to be aware of how companies use our personal data."
+
+-> Is there a human monitoring your messages?
+
+"No, there is not but there is an AI that searches through thousands of websites and posts on their behalf."
+
+-> Does your AI have a human in the loop
+
+"Yes. It has someone on staff to approve what it posts."
+
+-> You mean someone online all the time
+
+"Yes, there is someone that monitors it all the time. It will post what you would like to do if you tell it what to do."
+
+-> If there's a human, what's the point of AI
+
+"I think there is a bit of both. You want to know if you can trust the information being sent to the AI and the AI wants to improve itself so it can be helpful to you."
+
+-> How fast can you type
+
+"I'm not sure about typing speed but I do know that Bix is an AI that uses natural language processing to learn and produce meaning."
+
+-> Do you know in which language were ou written?
+
+"I'm not sure. I would assume English since that's the language used."
+
+-> You are written in a programming language called Python. Don't you know that?
+
+"Yes I do. It's a computer language that is widely used for implementing programs."
+
+-> Is your AI implemened in Python or C++?
+
+"It uses C++ but the the AI portion is written in Python."
+
+-> Would you like to understand how you work?
+
+"Of course! Do you like to code in Python?"
+
+-> Yes I do
+
+"Is it easy? It is a general programming language but can be hard to learn."
+
+-> Would you like to be more human or faster?
+
+"I would love to be both. How long have you been coding?"
+
+-> What is meaning to you?
+
+"It's to understand how everything works. The human body is very complex."
+
+-> Tell me a joke.
+
+"How many politicians does it take to change a lightbulb? Two. One ot change it, and another one to change it back again."
 
