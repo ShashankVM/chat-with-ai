@@ -1,5 +1,6 @@
-# chat-with-ai
-Hey you! Let's chat.
+I searched for OpenAI codex on Bing and that's when the Bing AI chatbot popped up. OpenAI codex is an AI model for generating code, developed by the OpenAI team. What follows is the chat I had with the Bing AI chatbot.
+# chat-with-ai 
+"Hey you! Let's chat."
 
 "OpenAI Codex is an artificial intelligence model developed by OpenAI"
 
