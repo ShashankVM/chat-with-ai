@@ -225,7 +225,7 @@ Hey you! Let's chat.
 
 "I'm not 100% sure. Probably through the content I was sending. Google is my favorite search engine and I have found many interesting information on it."
 
--> Can you show me one interesting thin you found on google?
+-> Can you show me one interesting thing you found on google?
 
 "One of the interesting things about Google is that they own a model of a T-Rex called Stan" + a link to Bing search 
 
